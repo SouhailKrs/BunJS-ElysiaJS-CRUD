@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository effectively highlights the use of BunJS ( JavaScript runtime) , which has recently attained a stable, production-ready status as of September 8th 2023 . Paired with ElysiaJS, a TypeScript framework boasting an impressive 18-fold performance improvement over Express, as per their website claims, it showcases a streamlined User CRUD example. This demonstration underscores the seamless integration of Bun's integrated features such as  password hashing features and bun:sqlite for efficient data storage, all while exemplifying the remarkable speed and efficiency of ElysiaJS in practical use.
+This repository effectively highlights the use of **BunJS** ( JavaScript runtime) , which has recently attained a stable, production-ready status as of September 8th 2023 . Paired with **ElysiaJS**, a TypeScript framework boasting an impressive 18-fold performance improvement over Express, as per their website claims, it showcases a streamlined User CRUD example. This demonstration underscores the seamless integration of Bun's integrated features such as  **password hashing** and **bun:sqlite** for efficient data storage, all while exemplifying the remarkable speed and efficiency of **ElysiaJS** in practical use.
 
 
 ## Build Process
