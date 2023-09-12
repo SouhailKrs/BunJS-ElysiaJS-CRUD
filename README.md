@@ -9,8 +9,9 @@ This repository effectively highlights the use of **BunJS** ( JavaScript runtime
 ## Build Process
 
 - Follow the [Bun's Guide](https://bun.sh/docs) for initial setup.
+- You can find a **Postman** collection that contains all the **API endpoints**  [here](https://www.postman.com/spaceflight-astronaut-41736688/workspace/souhail-krissaane-public-workspace/collection/28535822-a4dde544-6f96-4cc6-b470-7ca437658a0d).
 
-**For windows users**:  please follow this [Guide](https://blog.bitsrc.io/getting-started-with-bun-js-and-create-a-react-app-46bac6bdb947) to download and install Bun.
+- **For windows users**, please refer to this [Guide](https://blog.bitsrc.io/getting-started-with-bun-js-and-create-a-react-app-46bac6bdb947) to download and install Bun.
 - Clone or download the project repository using the following command:
 
 ```{r klippy, echo=FALSE, include=TRUE}
